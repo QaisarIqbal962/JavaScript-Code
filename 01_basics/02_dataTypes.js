@@ -27,3 +27,4 @@ let isloggedIn =
 
 console.log(typeof undifined) // undifined
 console.log(typeof null) // object 
+
