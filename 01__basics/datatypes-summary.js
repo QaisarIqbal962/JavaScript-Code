@@ -49,7 +49,7 @@ console.log(myName);
 console.log(anotherName);
 
 let userOne = {
-     email: "usergoogle.com",
+     email: "user@google.com",
      age: 22
      
 }
@@ -58,5 +58,12 @@ let userTwo = userOne
 userTwo.email = "qaisar@google.com"
 
 console.log(userOne);
-console.log(userTwo);
+console.log(userTwo);    
+console.log("to the beyond of t he vs code")
+
+
+
+
+
+
 
