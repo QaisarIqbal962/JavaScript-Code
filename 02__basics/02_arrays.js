@@ -13,10 +13,27 @@ const all_new_heros = [...marvel_heros, ...dc_heros, ...more_heros]
 // console.log(all_new_heros)
 
 
-const another_array = [1,2,3,4,[5,4,2],7,8,[2,7,8,[0,8,2]]]
+const another_array = [1, 2, 3, 4, [5, 4, 2], 7, 8, [2, 7, 8, [0, 8, 2]]]
 
 const real_another_array = another_array.flat(Infinity)
 console.log(real_another_array);
+
+
+console.log(Array.isArray("Qaisar"))
+console.log(Array.from("Qaisar"))
+console.log(Array.from({ name: "Qaisar" }))   //output: Empty array
+
+
+let score1 = 100
+let score2 = 200
+let score3 = 300
+
+console.log(Array.of(score1, score2, score3))
+
+
+
+
+
 
 
 
