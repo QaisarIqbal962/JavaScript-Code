@@ -1,4 +1,4 @@
-// singleton    =declare literal not a singleton.constructor = singleton
+// singleton    =declare literals not a singleton.constructor = singleton
 // Object.create
 
 
