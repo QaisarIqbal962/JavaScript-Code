@@ -1,0 +1,50 @@
+body {
+    background-color: lavender;
+    color: black;
+}
+
+div {
+    text-align: center;
+}
+.button:hover{
+    font-size: large;
+    border: 2px solid black;
+    cursor: pointer;
+    
+}
+.button{
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 1px solid black;
+    
+}
+
+#grey {
+    background-color: grey;
+    padding: 20px;
+    color: white;
+    
+}
+
+#white {
+    background-color: white;
+    padding: 20px;
+    color: black;border: 1px solid black;
+}
+
+#blue {
+    background-color: blue;
+    padding: 20px;
+    color: white;
+}
+
+#yellow {
+    background-color: yellow;
+    padding: 20px;
+    color: black;
+}
+#purple {
+    background-color: purple;
+    padding: 20px;
+    color: white;
+}
